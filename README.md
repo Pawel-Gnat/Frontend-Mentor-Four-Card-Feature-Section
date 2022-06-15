@@ -20,7 +20,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [Four Card Feature Section](xx)
+- Live Site URL: [Four Card Feature Section](https://pawel-gnat.github.io/Frontend-Mentor-Four-Card-Feature-Section/)
 
 ## My process
 
