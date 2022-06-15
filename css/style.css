@@ -119,4 +119,20 @@ footer {
 		gap: 2em;
 		margin: 0 auto;
 	}
+
+	.supervisor-card,
+	.team-card,
+	.karma-card,
+	.calculator-card {
+		max-width: 400px;
+	}
+
+	.heading-card {
+		font-size: 1.6rem;
+	}
+	
+	.text-card {
+		font-size: 0.9rem;
+		margin: 0 3rem 0 1.5rem;
+	}
 }
